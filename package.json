@@ -1,0 +1,8 @@
+{
+  "name": "data_structures",
+  "version": "1.0.0",
+  "description": "Bubble Sort",
+  "main": "index.ts",
+  "author": "Igor Batista",
+  "license": "ISC"
+}
